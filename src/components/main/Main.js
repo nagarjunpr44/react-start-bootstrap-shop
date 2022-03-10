@@ -1,6 +1,5 @@
 import React from 'react'
 import "./Main.css"
-import Cart from "../Navbar/Navbar"
 const Main = (props) => {
     
         const{onAdd}=props;
